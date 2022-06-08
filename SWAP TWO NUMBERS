@@ -1,4 +1,4 @@
-//SWAP TEO NUMBERS
+//SWAP TWO NUMBERS
 
 #include<stdio.h>  
  int main()    

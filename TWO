@@ -1,4 +1,4 @@
-//WAP FOR TABLE OF 2 USING DO WHILE LOOP
+//W.A.P FOR TABLE OF 2 USING DO WHILE LOOP
 
 #include<stdio.h>
 int main()
